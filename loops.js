@@ -29,4 +29,4 @@ do {
   console.log("I run once regardless.");
   incrementVariable()
 } while ( i < num);
-}
+}return num
